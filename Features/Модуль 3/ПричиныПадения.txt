@@ -1,0 +1,22 @@
+
+Error calling context method (ExecuteCommand): 
+Ошибка при проверке данных Счет-фактуры во время открытия документа для отправки
+
+Expected number of lines in <BasisesTree> table is равно 0 and actual number is <2>. : 
+Данные не верны, в кейсе ожидается проверка документа, где строки не заполнены, а фактически их 2
+
+Form table named <List> is not found.: 
+не найдена таблица с именем List, переданная в параметре, верное имя ItemList
+
+Line No.: 
+Результат в таблице не соответсвует эталону
+
+The button/command with <Sales invoice> header is not found.: 
+не находит кнопку из-за открытого окна после прохождения предыдущего кейса
+
+024004 Unable to move to the required line in <BasisesTree> table.: 
+не возможно перейти к строке в таблице, т.к ищется строка, где у Футболки количетсво 7, по факту 5
+
+2060018 Unable to move to the required line in <BasisesTree> table.: 
+в таблице нет искомой строки, она пустая
+
